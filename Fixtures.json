@@ -2,8 +2,8 @@
     "fixtures": [
         {
 	  "game_id": "001",
-	  "home_team": "COV",
-	  "away_team": "CAR",
+	  "home_team": "CVV",
+	  "away_team": "CBH",
 	  "game_date": "2024-12-24T23:30:00",
 	  "game_timezone": "Europe/London"
 	},
