@@ -2,7 +2,7 @@
     "fixtures": [
         {
 	  "game_id": "001",
-	  "home_team": "COV",
+	  "home_team": "COE",
 	  "away_team": "CAR",
 	  "game_date": "2024-12-14T23:30:00",
 	  "game_timezone": "Europe/London"
